@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+This repository is a test repository for the DBT tool.This project contains the structure and a minimal processing of data using SQL an a REDSHIFT cluster hosted on AWS.
 
 ### Using the starter project
 
